@@ -1,19 +1,19 @@
 * {
-	font-family: sans-serif;
-	margin: 0px;
+    font-family: sans-serif;
+    margin: 0px;
 }
 
 #menu {
-	background-color: #999;
-	width: 100%;
-	padding: 20px 10px;  
-	margin-bottom: 15px; 
+    background-color: #CCC;
+    width: 100%;
+    padding: 20px 10px;  
+    margin-bottom: 15px; 
 }
 
 #content p {
-	margin: 6px;
+    margin: 10px;
 }
 
 #content p span {
-	font-weight: 800;
+    font-weight: 800;
 }

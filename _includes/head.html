@@ -22,4 +22,11 @@
   <meta name="twitter:site" content="@flaviosilveira">
   <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
   <meta name="twitter:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+
+  <link rel="apple-touch-icon" sizes="120x120" href="{{ "/assets/images/favicons/apple-touch-icon.png" | absolute_url }}">
+  <link rel="icon" type="image/png" href="{{ "/assets/images/favicons/favicon-32x32.png" | absolute_url }}" sizes="32x32">
+  <link rel="icon" type="image/png" href="{{ "/assets/images/favicons/favicon-16x16.png" | absolute_url }}" sizes="16x16">
+  <link rel="manifest" href="{{ "/assets/images/favicons/manifest.json" | absolute_url }}">
+  <link rel="mask-icon" href="{{ "/assets/images/favicons/safari-pinned-tab.svg" | absolute_url }}" color="#5bbad5">
+  <meta name="theme-color" content="#ffffff">
 </head>

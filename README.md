@@ -10,4 +10,4 @@ Para quem não conhece, segue o link https://youtu.be/mpXShHdQGcQ
 
 ## License
 
-[MIT](/LICENSE.md) &copy; Fernando Moreira
+[MIT](/LICENSE.md) &copy; Flavio Silveira e Fernando Moreira

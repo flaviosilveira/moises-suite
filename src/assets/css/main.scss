@@ -1,6 +1,5 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
+# Front matter comment to ensure Jekyll properly reads file.
 ---
-@charset "utf-8";
-
+@import url('//fonts.googleapis.com/css?family=Open+Sans:400,600,700');
 @import "style";

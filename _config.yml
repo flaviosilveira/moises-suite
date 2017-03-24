@@ -1,7 +1,7 @@
 title: Moisés Generator
 description: "Gerador de texto baseado no diálogo do Épico Moises e Sílvio Santos"
 baseurl: "/moises-generator"
-url: ""
+url: "http://flaviosilveira.com/"
 # gems:
 #   - jekyll-feed
 exclude:

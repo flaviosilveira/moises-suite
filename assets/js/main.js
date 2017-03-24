@@ -1,23 +1,23 @@
 // Checked box characthers
 var checked_silvio = document.getElementById('silvio');
 var checked_moises = document.getElementById('moises');
-var checked_names = document.getElementById('names');
+var checked_photos = document.getElementById('photos');
 
 // Paragraph Dialog
-var p_silvio = document.getElementsByClassName('silvio');
-var p_moises = document.getElementsByClassName('moises');
-var span = document.getElementsByTagName('span');
+var _silvio = document.getElementsByClassName('js-silvio');
+var _moises = document.getElementsByClassName('js-moises');
+var _photo = document.getElementsByClassName('js-photo');
 
 checked_silvio.onchange = function () {
-  toogleElements(p_silvio, checked_silvio.checked, 'block');
+  toogleElements(_silvio, checked_silvio.checked, 'block');
 };
 
 checked_moises.onchange = function () {
-  toogleElements(p_moises, checked_moises.checked, 'block');
+  toogleElements(_moises, checked_moises.checked, 'block');
 };
 
-checked_names.onchange = function () {
-  toogleElements(span, checked_names.checked, 'inline');
+checked_photos.onchange = function () {
+  toogleElements(_photo, checked_photos.checked, 'inline');
 };
 
 function toogleElements(elements, checked, display) {

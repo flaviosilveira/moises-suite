@@ -1,3 +1,9 @@
+=clearfix()
+  &:after
+    content: ""
+    display: table
+    clear: both
+
 html
   box-sizing: border-box
   font-size: 16px
@@ -14,26 +20,83 @@ body
   font-family: 'Open Sans', Arial, Helvetica, sans-serif
   color: #4b4b4b
   font-weight: 400
+  line-height: 1.6
   font-size: 1rem
 
 .header
   min-height: 80px
   background-color: #fff
   box-shadow: 0 2px 23px 0 #e4e6e9, 0 2px 23px 0 #e4e6e9
-  overflow: hidden
   padding: 30px
+  margin-bottom: 60px
+
+  +clearfix()
 
   h1
     margin: 0
     float: left
     font-size: 20px
     font-weight: 400
-    color: #4b4b4b
+
+    a
+      color: #4b4b4b
+      text-decoration: none
 
 .nav
   float: right
+
+  &__item
+    display: inline-block
+    margin-left: 20px
+
+    label
+      cursor: pointer
+      margin-right: 5px
 
 .container
   max-width: 800px
   margin-left: auto
   margin-right: auto
+
+.dialogues
+  &__item
+    position: relative
+    min-height: 70px
+    margin-top: 30px
+    margin-bottom: 30px
+
+    +clearfix()
+
+    &--silvio
+      padding-left: 90px
+      text-align: left
+
+      .dialogues__photo
+        left: 0
+
+    &--moises
+      padding-right: 90px
+      text-align: right
+
+      .dialogues__photo
+        right: 0
+
+  &__photo
+    margin: 0
+    padding: 0
+    position: absolute
+    bottom: 0
+
+    img
+      width: 69px
+
+  &__dialog
+    padding: 25px
+    display: inline-block
+    background-color: #fff
+    color: #4b4b4b
+    opacity: .8
+    border-radius: 10px
+    box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.06)
+    font-size: 16px
+    letter-spacing: 0.7px

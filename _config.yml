@@ -9,3 +9,6 @@ markdown: kramdown
 exclude:
   - Gemfile
   - Gemfile.lock
+sass:
+  sass_dir: src/_sass
+  style: compressed

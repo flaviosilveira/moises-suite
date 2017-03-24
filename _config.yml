@@ -1,0 +1,11 @@
+title: Moisés Generator
+description: "Gerador de texto baseado no diálogo do Épico Moises e Sílvio Santos"
+baseurl: "/moises-generator"
+url: ""
+source: "src"
+markdown: kramdown
+# gems:
+#   - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock

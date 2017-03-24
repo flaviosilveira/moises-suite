@@ -54,7 +54,9 @@ body
       margin-right: 5px
 
 .container
-  max-width: 800px
+  max-width: 780px
+  padding-left: 15px
+  padding-right: 15px
   margin-left: auto
   margin-right: auto
 
@@ -74,6 +76,9 @@ body
       .dialogues__photo
         left: 0
 
+      .dialogues__dialog
+        border-radius: 10px 10px 10px 0
+
     &--moises
       padding-right: 90px
       text-align: right
@@ -81,22 +86,27 @@ body
       .dialogues__photo
         right: 0
 
+      .dialogues__dialog
+        border-radius: 10px 10px 0 10px
+
   &__photo
     margin: 0
     padding: 0
     position: absolute
-    bottom: 0
+    bottom: 10px
 
     img
       width: 69px
 
   &__dialog
-    padding: 25px
+    padding: 15px 25px
+    margin: 0
     display: inline-block
     background-color: #fff
     color: #4b4b4b
     opacity: .8
-    border-radius: 10px
-    box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.06)
+    box-shadow: 0 2px 6px 0 rgba(0, 0, 0, .1)
     font-size: 16px
-    letter-spacing: 0.7px
+    letter-spacing: .7px
+    position: relative
+

@@ -7,12 +7,12 @@
   name: silvio
   dialog: "E você se inscreveu no teatro?"
 - class: moises
-  dialog: "Me inscrevi!"
+  dialog: "Inscrevi"
 - class: silvio
   name: silvio
   dialog: "Muito bem. E isso quer dizer Moisés que você topa tudo?"
 - class: moises
-  dialog: "Topa tudo!"
+  dialog: "Topa tudo"
 - class: silvio
   name: silvio
   dialog: "Muito... E o que é que você faz Moisés?"

@@ -1,4 +1,4 @@
-=clearfix()
+%clearfix
   &:after
     content: ""
     display: table
@@ -22,6 +22,7 @@ body
   font-weight: 400
   line-height: 1.6
   font-size: 1rem
+  padding-top: 140px
 
 .header
   min-height: 80px
@@ -29,8 +30,13 @@ body
   box-shadow: 0 2px 23px 0 #e4e6e9, 0 2px 23px 0 #e4e6e9
   padding: 30px
   margin-bottom: 60px
+  z-index: 100
+  position: fixed
+  top: 0
+  right: 0
+  left: 0
 
-  +clearfix()
+  @extend %clearfix
 
   h1
     margin: 0
@@ -67,7 +73,7 @@ body
     margin-top: 30px
     margin-bottom: 30px
 
-    +clearfix()
+    @extend %clearfix
 
     &--silvio
       padding-left: 90px
@@ -94,6 +100,10 @@ body
     padding: 0
     position: absolute
     bottom: 10px
+    background-color: #fff
+    box-shadow: 0 2px 6px 0 rgba(0, 0, 0, .1)
+    padding: 2px
+    border-radius: 50%
 
     img
       width: 69px

@@ -1,168 +1,134 @@
-- class: silvio
-  name: silvio
+- name: silvio
   dialog: "Vamos topar tudo por dinheiro no palco! Vocês não vieram por nenhuma caravana, não?"
-- class: moises
+- name: moises
   dialog: "Eu vim da caravana do SBT mesmo lá da Barra Funda, eu sou do Cambuci."
-- class: silvio
-  name: silvio
+- name: silvio
   dialog: "E você se inscreveu no teatro?"
-- class: moises
+- name: moises
   dialog: "Inscrevi"
-- class: silvio
-  name: silvio
+- name: silvio
   dialog: "Muito bem. E isso quer dizer Moisés que você topa tudo?"
-- class: moises
+- name: moises
   dialog: "Topa tudo"
-- class: silvio
-  name: silvio
+- name: silvio
   dialog: "Muito... E o que é que você faz Moisés?"
-- class: moises
+- name: moises
   dialog: "Eu... eu.. topo tudo por dinheiro né?"
-- class: silvio
-  name: silvio
+- name: silvio
   dialog: "Mas fora daqui o que é que você faz? Trabalha em que?"
-- class: moises
+- name: moises
   dialog: "Eu sou vendedor né?"
-- class: silvio
-  name: silvio
+- name: silvio
   dialog: "Então você vai vender muito bem para elas, tenho certeza! Abram as cortinas, vão vocês pra lá, vão pra lá. Pronto! Vão pra lá. Podem ir pra lá, podem ir pra lá. Eu vou dar para você um objeto e você vai descrever o objeto, pra que elas desenhem. Entendeu? Pode começar, a vontade. Pode começar."
-- class: moises
+- name: moises
   dialog: "Desenha?"
-- class: silvio
-  name: silvio
+- name: silvio
   dialog: "Não! Elas vão desenhar."
-- class: moises
+- name: moises
   dialog: "Eu mando elas desenha a bola né?"
-- class: silvio
-  name: silvio
+- name: silvio
   dialog: "Não, não! A bola não, não, não. Não é a bola. Por exemplo: Eu vou mandar elas desenha e você vai vê. Por exemplo o que que é, olha aui ô. Se eu tivesse que pedir a elas que desenhasse isso aqui."
-- class: moises
+- name: moises
   dialog: "Certo, manda desenha o óculos!"
-- class: silvio
-  name: silvio
+- name: silvio
   dialog: "Não! Se eu tivesse que pedir a elas pra que elas desenhassem isso aqui. Presta atenção. Fica calado."
-- class: moises
+- name: moises
   dialog: "Agora eu tô entendendo."
-- class: silvio
-  name: silvio
+- name: silvio
   dialog: "Não! Eu vou explicar. Meninas começem o desenho por favor. Façam, façam uma bolinha pequinininha, tamanho de uma bola de um srvete. Tracem duas retas paralelas, duas paralelas em sentido vertical. Já fizeram. Agora, na parte da bolinha, aonde vocês fizeram a bolinha. Vocês façam uma porção de quadradinhos bem pequinininhos. Você entendeu o Moisés? Entendeu?"
-- class: moises
+- name: moises
   dialog: "Entendi, entendi.."
-- class: silvio
-  name: silvio
+- name: silvio
   dialog: "Então deixa eu ver, eh. Vocês deveriam fazer, assim! Rá tá certo! O que que você acha que é isso aqui? Afinando assim em baixo? E aui em cima assim quadriculado assim, cheio de quadradinho como eu pedi a vocês. Oq q cê.. Hein? Aeeeee... Um microfone! Muito bem! Elas agora já... Agora elas já estão aptas a fazer o que você pedir. Pode começar a pedir."
-- class: moises
+- name: moises
   dialog: "Desenha, pra desenha a bola. Desenha um arco iro!"
-- class: silvio
-  name: silvio
+- name: silvio
   dialog: "Ah?"
-- class: moises
+- name: moises
   dialog: "Um arco iro."
-- class: silvio
-  name: silvio
+- name: silvio
   dialog: "O Arco?"
-- class: moises
+- name: moises
   dialog: "cuiro. Um arco iro"
-- class: silvio
-  name: silvio
+- name: silvio
   dialog: "Um Arco o que?"
-- class: moises
+- name: moises
   dialog: "Arco iro."
-- class: silvio
-  name: silvio
+- name: silvio
   dialog: "Eu não..... eu não... eu não tô entendendo nada. Você mando desenha uma bola, é isso? E agora desenha o que?"
-- class: moises
+- name: moises
   dialog: "Pode desenha uma frô!"
-- class: silvio
-  name: silvio
+- name: silvio
   dialog: "Uma flor?"
-- class: moises
+- name: moises
   dialog: "É."
-- class: silvio
-  name: silvio
+- name: silvio
   dialog: "Mas desenha a flor onde?"
-- class: moises
+- name: moises
   dialog: "Ah, desenha no quadro né?"
-- class: silvio
-  name: silvio
+- name: silvio
   dialog: "Bom, mas é.. desenha a flor no quadro, mas a flor... onde é que tá a flor aí, aí nesse objeto? Aí nesse objeto. Porque elas vão ter qe desenhar esse objeto que tá aqui ô."
-- class: moises
+- name: moises
   dialog: "Ahhhh"
-- class: silvio
-  name: silvio
+- name: silvio
   dialog: "Então."
-- class: moises
+- name: moises
   dialog: "Então desenha, desenha uma, desenha um negócio de joga bola do Guda! Do Guga! Guga! Desenha uma ra -"
-- class: silvio
-  name: silvio
+- name: silvio
   dialog: "Peraí, Calma, calma, calma, calma, calma, caallma..."
-- class: moises
+- name: moises
   dialog: "Ra - desenha uma raqueta"
-- class: silvio
-  name: silvio
+- name: silvio
   dialog: "Caaaallllma! Você não pode falar o que é!"
-- class: moises
+- name: moises
   dialog: "Ahh tá ok!"
-- class: silvio
-  name: silvio
+- name: silvio
   dialog: "Você tem que mandar desenhar! Desenha..."
-- class: moises
+- name: moises
   dialog: "É, ah entendi."
-- class: silvio
-  name: silvio
+- name: silvio
   dialog: "Agora, através .. Linhas.."
-- class: moises
+- name: moises
   dialog: "É, ah entendi, agora, agora entendi o raciocínio."
-- class: silvio
-  name: silvio
+- name: silvio
   dialog: "Agora?! Moisés.. vamo lá Moisés."
-- class: moises
+- name: moises
   dialog: "Por gentileza moças, desenhem ai um objeto, que vocês sabem."
-- class: silvio
-  name: silvio
+- name: silvio
   dialog: "Má peraí... calma! Eu não.. Ô Moisés...ô Moisés... Você falou pra elas desenha um objeto que elas sabem?"
-- class: moises
+- name: moises
   dialog: "É! Desenha!"
-- class: silvio
-  name: silvio
+- name: silvio
   dialog: "Calma! Não fala o nome.."
-- class: moises
+- name: moises
   dialog: "Na, não vou falar né!"
-- class: silvio
-  name: silvio
+- name: silvio
   dialog: "Ô. Desenha... Depois..."
-- class: moises
+- name: moises
   dialog: "Desenha uma boca!"
-- class: silvio
-  name: silvio
+- name: silvio
   dialog: "Não, não pode falar nomes, é só traços.. Você ficou encantado c...?"
-- class: moises
+- name: moises
   dialog: "Desenha uma bola!"
-- class: silvio
-  name: silvio
+- name: silvio
   dialog: "Aeeeeee... uma bola... aeeeee.. aeeeee... aeeeee... Agora.. a bola ta desenhada, eu acho. o que que coloca dentro da bola? Duas o qe?"
-- class: moises
+- name: moises
   dialog: "Duas raquete! Duas bolinha na bola!"
-- class: silvio
-  name: silvio
+- name: silvio
   dialog: "Aeeee... legal, legal.. Moisés.. ô Moisés.."
-- class: moises
+- name: moises
   dialog: "Desenha um violão! Duas bolinha.. Me ajuda por favor Sílvio."
-- class: silvio
-  name: silvio
+- name: silvio
   dialog: "Vê direitinho, vê direitinho.."
-- class: moises
+- name: moises
   dialog: "Desenha uma calcinha!"
-- class: silvio
-  name: silvio
+- name: silvio
   dialog: "Bem, deixa eu ver se elas acertaram, vamo lá. O que que você tá desenhando aí o Thais? Uma boneca. E você tá desenhando o que? Uma bneca também. E você tá desenhando o que? Uma boneca também. Tá bom! Se acha difícil, então.. vou trocar. Pronto!"
-- class: moises
-  dialog: "não, não e não."
-- class: silvio
-  name: silvio
+- name: moises
+  dialog: "Não, não e não."
+- name: silvio
   dialog: "Que que você prefere?"
-- class: moises
+- name: moises
   dialog: "Pode falar o nome?"
-- class: silvio
-  name: silvio
-  dialog: "Não, tem que mandar desenhar! Não consegue né? Não faz mal. Então não tem nenhum problema, você recebe o prêmio de participação. Gnhou, ganhou 80 reais, tá ouvindo? Ganhou 80 reais. Tá bom? Tá legal! E eu vou para o auditório.. quem que? Quem que dinheiro no auditório?"
+- name: silvio
+  dialog: "Não, tem que mandar desenhar! Não consegue né? Não faz mal. Então não tem nenhum problema, você recebe o prêmio de participação. Ganhou, ganhou 80 reais, tá ouvindo? Ganhou 80 reais. Tá bom? Tá legal! E eu vou para o auditório... quem que? Quem que dinheiro no auditório?"

@@ -153,10 +153,6 @@ body
     padding: 0
     position: absolute
     bottom: 10px
-    background-color: #fff
-    box-shadow: 0 2px 6px 0 rgba(0, 0, 0, .1)
-    padding: 2px
-    border-radius: 50%
 
     img
       width: 69px
@@ -173,3 +169,26 @@ body
     letter-spacing: .7px
     position: relative
 
+.button-copy-dialogues
+  width: 260px
+  margin: 0 auto 50px
+  font-size: 13px
+  letter-spacing: .5px
+  text-align: center
+  text-transform: uppercase
+  text-decoration: none
+  padding: 15px
+  display: block
+  position: relative
+  color: #fff
+  border-radius: 100px
+  background-color: #6db0ff
+  transition: background-color .15s ease-in-out, box-shadow .15s ease-in-out, transform .15s ease-in-out
+  box-shadow: 0 6px 15px 0 rgba(#000, .1)
+
+  &:hover,
+  &:focus,
+  &:active
+    transform: translateY(-5px)
+    background-color: darken(#6db0ff, 10%)
+    box-shadow: 0 8px 18px 0 rgba(#000, .2)

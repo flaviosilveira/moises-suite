@@ -1,6 +1,6 @@
-title: Moisés Generator
-description: "Gerador de texto baseado no diálogo do Épico Moises e Sílvio Santos"
-baseurl: "/moises-generator"
+title: Moisés Suíte
+description: "Conjunto de ferramentas baseadas na aparição do Épico Moises no Topa Tudo por Dinheiro"
+baseurl: "/moises-suite"
 url: "http://flaviosilveira.com/"
 # gems:
 #   - jekyll-feed

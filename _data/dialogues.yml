@@ -131,4 +131,8 @@
 - name: moises
   dialog: "Pode falar o nome?"
 - name: silvio
-  dialog: "Não, tem que mandar desenhar! Não consegue né? Não faz mal. Então não tem nenhum problema, você recebe o prêmio de participação. Ganhou, ganhou 80 reais, tá ouvindo? Ganhou 80 reais. Tá bom? Tá legal! E eu vou para o auditório... quem que? Quem que dinheiro no auditório?"
+  dialog: "Não, tem que mandar desenhar!"
+- name: silvio
+  dialog: "Não consegue né? Não faz mal."
+- name: silvio
+  dialog: "Então não tem nenhum problema, você recebe o prêmio de participação. Ganhou, ganhou 80 reais, tá ouvindo? Ganhou 80 reais. Tá bom? Tá legal! E eu vou para o auditório... quem que? Quem que dinheiro no auditório?"

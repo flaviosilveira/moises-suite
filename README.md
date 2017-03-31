@@ -1,8 +1,8 @@
 # Moisés! Não consegue né?
 
-[Moisés Generator](http://flaviosilveira.com/moises-generator/)
+[Moisés Text Generator](http://flaviosilveira.com/moises-suite/)
 
-> Esse pequeno gerador de conteúdo é uma homenagem para o Moisés, ícone do Topa tudo por dinheiro que se tornou o vídeo mais bizarro da internet de todos os tempos.
+> Antes um pequeno gerador de conteúdo, agora uma suíte de ferramentas baseadas no nosso herói. Uma homenagem para Moisés, ícone do Topa tudo por dinheiro que se tornou o vídeo mais bizarro da internet de todos os tempos.
 
 ![](moises.gif)
 
@@ -25,7 +25,7 @@ Dentro do projeto execute
  
 `jekyll serve`
 
-Agora só entrar no link: http://127.0.0.1:4000/moises-generator/
+Agora só entrar no link: http://127.0.0.1:4000/moises-suite/
 
 ## Licença
 
